@@ -17,7 +17,7 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 
 ## How to submit
 
-Papers should be submitted on [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2024/Workshop/Student_Research&referrer=%5BHomepage%5D(%2F)) by Mar 1st, 2024. 
+Papers should be submitted on [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2024/Workshop/Student_Research) by Mar 1st, 2024. 
 
 Submissions should be no more than **five** pages not including references. Make sure to read through the [Author Guidelines](/author) for detailed submission instructions. Not following the author guidelines may result in your paper being desk-rejected.
 
