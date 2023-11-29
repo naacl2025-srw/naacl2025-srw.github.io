@@ -29,7 +29,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "naacl2021srw"
+    shortname            : "naacl2024srw"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -60,7 +60,7 @@ naver_site_verification  :
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: naacl2022-srw@googlegroups.com
-  github: naacl2022-srw
+  email: naacl2024-srw@googlegroups.com
+  github: naacl2024-srw
   twitter: naacl_srw
   
