@@ -21,6 +21,8 @@ Papers should be submitted on [OpenReview](https://openreview.net/group?id=aclwe
 
 Submissions should be no more than **five** pages not including references. Make sure to read through the [Author Guidelines](/author) for detailed submission instructions. Not following the author guidelines may result in your paper being desk-rejected.
 
+Please use the standard [ACL templates](https://github.com/acl-org/acl-style-files) and style guide, though please keep in mind that the SRW page limit is 5 pages (not including references)
+
 ## Benefits of participation
 
 - All accepted papers will be presented in the main conference poster session, giving students an opportunity to interact with and present their work to a large and diverse audience, including top researchers in the field.
