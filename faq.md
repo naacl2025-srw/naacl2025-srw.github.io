@@ -21,7 +21,7 @@ __A:__ Yes.
 __A:__ Supplementaty materials are permitted, but your paper should stand alone without requiring reading of them. Supplemental code and data should be submitted on OpenReview. Appendices should be appended starting on a new page after the References section in your main paper PDF.
 
 #### Q: Where should I submit for pre-submission mentoring?
-__A:__ You may e-mail __naacl2024-srw@googlegroups.com__ with the follow information:
+__A:__ You may e-mail __naacl24-srw-chairs@googlegroups.com__ with the follow information:
 
 Please see the instructions under the [Mentoring page](/mentoring). 
 

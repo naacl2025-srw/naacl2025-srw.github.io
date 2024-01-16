@@ -15,7 +15,7 @@ The NAACL Student Research Workshop (SRW) 2024 will be held in conjunction with 
 <br>
 _**Happy faces during the SRW Social in Minneapolis, Minnesota**_ -->
 
-Contact us via email at [naacl2024-srw@googlegroups.com](mailto:naacl2024-srw@googlegroups.com) for any questions.
+Contact us via email at [naacl24-srw-chairs@googlegroups.com](mailto:naacl24-srw-chairs@googlegroups.com) for any questions.
 Get connected with us on [Twitter](https://twitter.com/naacl_srw).
 
 <!-- We will update this site when latest information are available. -->
