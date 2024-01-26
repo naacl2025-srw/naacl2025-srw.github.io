@@ -44,4 +44,4 @@ __A:__ The spirit of the SRW is to give you feedback to improve your work. If yo
 #### Q: What are the guidelines for the Camera-ready version?
 __A:__ Camera ready FAQs are available [here](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md).
 
-Please contact us at  [naacl2024-srw@googlegroups.com](mailto:naacl2024-srw@googlegroups.com) if you have any other questions.
+Please contact us at  [naacl24-srw-chairs@googlegroups.com](mailto:naacl24-srw-chairs@googlegroups.com) if you have any other questions.
