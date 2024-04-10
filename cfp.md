@@ -34,7 +34,7 @@ Please use the standard [ACL templates](https://github.com/acl-org/acl-style-fil
 - Submission for mentoring deadline (optional): Jan 19, 2024.
 - Mentorship feedback: Feb 16, 2024.
 - Papers submission deadline: March 1, 2024.
-- Reviews due: <s>April 19, 2024.</s> 
+- Reviews due: <b>April 19, 2024.</b> 
 - Acceptance notification: April 26, 2024.
 - Camera-ready papers due: June 3, 2024.
 
