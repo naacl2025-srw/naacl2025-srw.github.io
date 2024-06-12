@@ -4,7 +4,138 @@ title: "Accepted Papers"
 permalink: /accepted
 order : 1
 ---
-# TBD
+
+# Archival
+***[3] [Systematic Analysis for Pretrained Language Model Priming for Parameter-Efficient Fine-tuning]***\
+Shih-Cheng Huang, Shih-Heng Wang, Min-Han Shih, Saurav Sahay, Hung-yi Lee
+
+***[5] [Rephrasing Invokes Better Generations for Large Language Models]***\
+Haoran Yang, Hongyuan Lu, Wai Lam
+
+***[7] [Exploring Compositional Generalization of Large Language Models]***\
+Haoran Yang, Hongyuan Lu, Wai Lam, Deng Cai
+
+***[8] [Explainable CED: A Dataset for Explainable Critical Error Detection in Machine Translation]***\
+Dahyun Jung, Sugyeong Eo, Chanjun Park, Heuiseok Lim
+
+***[10] [SMARTR: A Framework for Early Detection using Survival Analysis of Longitudinal Texts]***\
+Jean-Thomas Baillargeon, Luc Lamontagne
+
+***[11] [Fast Exact Retrieval for Nearest-neighbor Lookup (FERN)]***\
+Richard Zhu
+
+***[13] [Start Simple: Progressive Difficulty Multitask Learning]***\
+Yunfei Luo, Yuyang Liu, Rukai Cai, Tauhidur Rahman
+
+***[15] [LUCID: LLM-Generated Utterances for Complex and Interesting Dialogues]***\
+Joe Stacey, Jianpeng Cheng, John Torr, Tristan Guigue, Joris Driesen, Alexandru Coca, Mark Gaynor, Anders Johannsen
+
+***[19] [Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages]***\
+Sankalp Bahad, Pruthwik Mishra, Parameswari Krishnamurthy, Dipti Sharma
+
+***[20] [Knowledge-centered conversational agents with a drive to learn]***\
+Selene Baez Santamaria
+
+***[22] [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4]***\
+Seungyoon Lee, Dong Jun Kim, Dahyun Jung, Chanjun Park, Heuiseok Lim
+
+***[25] [To Clarify or not to Clarify: A Comparative Analysis of Clarification Classification with Fine-Tuning, Prompt Tuning, and Prompt Engineering]***\
+Alina Leippert, Tatiana Anikina, Bernd Kiefer, Josef van Genabith
+
+***[28] [Detecting Response Generation Not Requiring Factual Judgment]***\
+Ryohei Kamei, Daiki Shiono, Reina Akama, Jun Suzuki
+
+
+***[31] [Unknown Script: Impact of Script on Cross-Lingual Transfer]***\
+Wondimagegnhue Tufa, Ilia Markov, Piek Vossen
+
+
+***[32] [Improving Repository-level Code Search with Text Conversion]***\
+Mizuki Kondo, Daisuke Kawahara, Toshiyuki Kurabayashi
+
+***[33] [Improving Multi-lingual Alignment Through Soft Contrastive Learning]***\
+Minsu Park, Seyeon Choi, CHANYEOL CHOI, Jun-Seong Kim, Jy-yong Sohn
+
+***[34] [Few-Shot Event Argument Extraction Based on a Meta-Learning Approach]***\
+Aboubacar Tuo, Romaric Besançon, Olivier Ferret, Julien Tourille
+
+***[36] [Investigating Web Corpus Filtering Methods in Language Model Development]***\
+Rintaro Enomoto, Arseny Tolmachev, Takuro Niitsuma, Shuhei Kurita, Daisuke Kawahara
+
+***[38] [Referring Expressions in Human-Robot Common Ground: A Thesis Proposal]***\
+Jaap Kruijt
+
+***[39] [Source Code is a Graph, Not a Sequence: A Cross-Lingual Perspective on Code Clone Detection]***\
+Mohammed Ataaur Rahaman, Julia Ive
+
+***[42] [Distilling Text Style Transfer With Self-Explanation From LLMs]***\
+Chiyu Zhang, Honglong Cai, Yuezhang Li, Yuexin Wu, Le Hou, Muhammad Abdul-Mageed
+
+***[51] [Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation]***\
+Hao Wang, Tetsuro Morimura, Ukyo Honda, Daisuke Kawahara
+
+***[53] [Evaluation Dataset for Japanese Medical Text Simplification]***\
+Koki Horiguchi, Tomoyuki Kajiwara, Yuki Arase, Takashi Ninomiya
+
+***[54] [Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation]***\
+Reon Kajikawa, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya
+
+***[55] [A Reproducibility Study on Quantifying Language Similarity: The Impact of Missing Values in the URIEL Knowledge Base]***\
+Hasti Toossi, Guo Qing Huai, Jinyu Liu, Eric Khiu, A. Seza Doğruöz, En-Shiun Annie Lee
+
+***[59] [Coding Open-Ended Responses using Pseudo Response Generation by Large Language Models]***\
+Yuki Zenimoto, Ryo Hasegawa, Takehito Utsuro, Masaharu Yoshioka, Noriko Kando
+
+***[60] [Thesis Proposal: Cross-Task Generalization Abilities of Large Language Models]***\
+Qinyuan Ye
+
+***[63] [Commentary Generation from Data Records of Multiplayer Strategy Esports Game]***\
+Zihan Wang, Naoki Yoshinaga
+
+***[64] [Facilitating Online Opinion Diversity through Hybrid NLP Approaches]***\
+Michiel van der Meer
+
+***[69] [HybridBERT- Making BERT Pretraining more Efficient through a Hybrid Mixture of Attention Mechanisms]***\
+Gokul Srinivasagan, Simon Ostermann
+
+
+# Non-archival
+***[12] [When XGBoost Outperforms GPT-4 on Text Classification: A Case Study]***\
+Matyas Bohacek, Michal Bravansky
+
+***[14] [M2DPR: A Multi-task Multi-view Representation Learning Framework for Dense Passage Retrieval]***\
+Qixi Lu
+
+***[16] [Leveraging and Evaluating Large Language Models for Emotion-Cause Pair Extraction]***\
+Tadesse Destaw Belay, Olga Kolesnikova, Seid Muhie Yimam
+
+***[27] [The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models]***\
+Ryosuke Takahashi, Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, Kentaro Inui
+
+***[30] [Instruction-Following Evaluation for Large Vision-Language Models]***\
+Daiki Shiono, Shumpei Miyawaki, Ryota Tanaka, Jun Suzuki
+
+***[46] [BELIEF: A Bias-free Estimation of Language Models in Factual Knowledge Understanding]***\
+Xin Zhao, Naoki Yoshinaga, Daisuke Oba
+
+***[50] [Empirical Analysis of Large Vision Language Models against Goal Hijacking via Visual Prompt Injection]***\
+Subaru Kimura, Ryota Tanaka, Shumpei Miyawaki, Jun Suzuki, Keisuke Sakaguchi
+
+***[52] [GistScore: Learning Better Representations for In-Context Example Selection with Gist Bottlenecks]***\
+Shivanshu Gupta, Clemens Rosenbaum, Ethan R. Elenberg
+
+***[57] [Breaking Symmetry When Training Transformers]***\
+Chunsheng Zuo, Michael Guerzhoy
+
+***[61] [User-Centric Offensive Text Detection in a Culture-Specific Context: A PhD Proposal]***\
+Pia Pachinger
+
+
+
+
+
+<!-- # Thesis Proposals -->
+
 <!-- ### Proceedings for archival papers can be accessed [here.] (https://aclanthology.org/volumes/2022.naacl-srw/) -->
 
 <!-- # Archival
