@@ -9,7 +9,16 @@ order: 1
 <!-- button class="btn btn-success" onclick="window.location.href='/mentoring';">Submit your paper draft to our mentorshop program by Feb 1!</button -->
 
 # Welcome to NAACL SRW 2024
-The NAACL Student Research Workshop (SRW) 2024 will be held in conjunction with [NAACL 2024](https://2024.naacl.org/) as a hybrid in-person/virtual workshop. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
+The NAACL Student Research Workshop (SRW) 2024 will be held in conjunction with [NAACL 2024](https://2024.naacl.org/) as a hybrid in-person/virtual workshop. 
+
+Join us in person at NAACL 2024! 
+
+* Welcome and SRW Panel: June 18, 9 - 10:30am, Don Julian ([underline link](https://underline.io/events/458/sessions?eventSessionId=17950&searchGroup=lecture)). Our panelists are Jieyu Zhao, Kristina Gligorić, Navita Goyal, and Weiyan Shi. Please submit your questions [here](https://docs.google.com/forms/d/e/1FAIpQLSccZ1AE6rfyOX-gE_8pLh_y6E9mgntlbgRs2DpAss1Kmv9yQg/viewform?usp=sf_link)!
+
+* Poster session: June 18, 3:30-5pm, Don Diego 2, 3 & 4 ([underline link](https://underline.io/events/458/posters?eventSessionId=17470&searchGroup=lecture))
+
+
+The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
 <!-- <img src="images/social_picture.jpeg" alt="Happy faces during the SRW Social in Minneapolis, Minnesota" width="60%"/> 
 <br>
