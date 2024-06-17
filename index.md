@@ -13,7 +13,7 @@ The NAACL Student Research Workshop (SRW) 2024 will be held in conjunction with 
 
 Join us in person at NAACL 2024! 
 
-* Welcome and SRW Panel: June 18, 9 - 10:30am, Don Julian ([underline link](https://underline.io/events/458/sessions?eventSessionId=17950&searchGroup=lecture)). Our panelists are Jieyu Zhao, Kristina Gligorić, Navita Goyal, and Weiyan Shi. Please submit your questions [here](https://docs.google.com/forms/d/e/1FAIpQLSccZ1AE6rfyOX-gE_8pLh_y6E9mgntlbgRs2DpAss1Kmv9yQg/viewform?usp=sf_link)!
+* Welcome and SRW Panel: June 18, 9:30 - 10:30am, Don Julian ([underline link](https://underline.io/events/458/sessions?eventSessionId=17950&searchGroup=lecture)). Our panelists are Jieyu Zhao, Kristina Gligorić, Navita Goyal, and Weiyan Shi. Please submit your questions [here](https://docs.google.com/forms/d/e/1FAIpQLSccZ1AE6rfyOX-gE_8pLh_y6E9mgntlbgRs2DpAss1Kmv9yQg/viewform?usp=sf_link)!
 
 * Poster session: June 18, 3:30-5pm, Don Diego 2, 3 & 4 ([underline link](https://underline.io/events/458/posters?eventSessionId=17470&searchGroup=lecture))
 
