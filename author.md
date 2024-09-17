@@ -8,7 +8,7 @@ order : 1
 
 
 # Author Guidelines
-The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. NAACL-HLT SRW 2024 will adhere to these policies and guidelines. Submissions should:
+The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. NAACL SRW 2025 will adhere to these policies and guidelines. Submissions should:
 
 - __Be relevant__: Submissions to NAACL SRW 2025 should be relevant to the audience.
 - __Be original__: The content of submissions to NAACL SRW 2025 (the ideas, the findings, the results and the words) should be original; that is, should not have been published (or be accepted for publication) in another refereed, archival form (such as a book, a journal, or a conference proceedings). Authors are referred to the ACL author guidelines for additional information on what constitutes existing publication.
@@ -17,9 +17,9 @@ Authors may present preliminary versions of their work in other venues that are 
 
 ## Double submission
 
-Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NAACL-HLT SRW 2024. Authors of papers accepted for presentation at NAACL SRW 2025 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
+Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NAACL SRW 2025. Authors of papers accepted for presentation at NAACL SRW 2025 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
 
-Authors submitting more than one paper to NAACL SRW 2025 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single NAACL-HLT 2024 track (Research, Industry, SRW or demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
+Authors submitting more than one paper to NAACL SRW 2025 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single NAACL SRW 2025 track (Research, Industry, SRW or demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
 
 ## Double blind review
 
