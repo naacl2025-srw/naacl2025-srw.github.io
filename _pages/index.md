@@ -1,11 +1,11 @@
 ---
-title: "NAACL Student Research Workshop (SRW) 2019"
+title: "NAACL Student Research Workshop (SRW) 2025"
 permalink: /
 ---
 
 
-## Welcome to NAACL SRW 2019
-The NAACL Student Research Workshop (SRW) 2019 will be held in conjunction with [NAACL HLT 2019](http://naacl2019.org) in Minneapolis, USA. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
+## Welcome to NAACL SRW 2025
+The NAACL Student Research Workshop (SRW) 2025 will be held in conjunction with [NAACL HLT 2019](http://naacl2019.org) in Minneapolis, USA. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
 Contact us via [Google Group](https://groups.google.com/forum/#!forum/naacl-2019-student-research-workshop) for any questions.
 Get connected with us via [Facebook](https://www.facebook.com/naaclsrw2019) and [Twitter](https://twitter.com/2019Srw).
