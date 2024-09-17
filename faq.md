@@ -4,7 +4,7 @@ title: "Frequently Asked Questions"
 permalink: /faq
 order : 1
 ---
-#### Q: I am attending NAACL SRW 2024 in-person. What will the presentation format be?
+#### Q: I am attending NAACL SRW 2025 in-person. What will the presentation format be?
 __A:__ Everyone attending in-person should prepare a physical poster. These will be presented on Day 2 of the conference. Students who submitted thesis proposals will be given the opportunity to do a 15-minute oral presenations, also on Day 2.
 
 #### Q: What size should my in-person poster be, and how do I get it printed?
