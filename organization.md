@@ -18,7 +18,8 @@ order : 1
 
 ### Mentors for Student Participants
 TBD
-<!-- - Archita Pathak, Amazon
+<!-- 
+- Archita Pathak, Amazon
 - Arkaitz Zubiaga, Queen Mary University of London
 - Atul Kumar, Ojha	National University of Ireland, Galway 
 - Dan Goldwasser, Purdue University
@@ -38,11 +39,13 @@ TBD
 - Valerio Basile, University of Turin
 - Vincent Ng, University of Texas at Dallas
 - Vivek Srivastava, TCS Research, India
-- Yonatan Bisk, Carnegie Mellon University -->
+- Yonatan Bisk, Carnegie Mellon University 
+-->
 
 ### Program Committee
 TBD
-<!-- - Abeer Aldayel, King Saud University
+<!-- 
+- Abeer Aldayel, King Saud University
 - Abhinav Joshi, Indian Institute of Technology, Kanpur
 - Adithya Pratapa, Carnegie Mellon University
 - Aditya Shah, , Virginia Polytechnic Institute and State University
@@ -135,4 +138,5 @@ TBD
 - Yoshinari Fujinuma, AWS AI Labs
 - Younghun Lee, Purdue University
 - Yuan Zhang, Google
-- Zhong Zhou, School of Computer Science, Carnegie Mellon University -->
+- Zhong Zhou, School of Computer Science, Carnegie Mellon University 
+-->
