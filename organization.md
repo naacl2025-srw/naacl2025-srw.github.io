@@ -7,14 +7,13 @@ order : 1
 # Organization
 
 ### Student Chairs
-- [Yang (Trista) Cao](https://tristaycao.github.io/), University of Maryland, USA
-- [Isabel Papadimitriou](https://nlp.stanford.edu/~isabelvp/), Stanford University, USA
-- [Anaelia Ovalle](https://anaeliaovalle.github.io/), UCLA, USA
+- [Abteen Ebrahimi](https://www.linkedin.com/in/abteen-ebrahimi/), University of Colorado Boulder, USA
+- [Samar Haider](https://samarh.github.io/), University of Pennsylvania, USA
+- [Emmy Liu](https://nightingal3.github.io/), Carnegie Mellon University, USA
 
 ### Faculty Advisors 
-- [Marcos Zampieri](https://mzampieri.com/), George Mason University, USA
-- [Frank Ferraro](https://redirect.cs.umbc.edu/~ferraro/), University of Maryland Baltimore County, USA
-- [Swabha Swayamdipta](https://swabhs.com/), University of Southern California, USA
+- [Maria Leonor Pacheco](https://blast-cu.github.io/mlpacheco/), University of Colorado Boulder, USA
+- [Shira Wein](https://shirawein.github.io/), Amherst College, USA
 
 
 ### Mentors for Student Participants
