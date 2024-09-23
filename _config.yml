@@ -20,16 +20,16 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "NAACL Student Research Workshop (SRW) 2024"
+title                    : "NAACL Student Research Workshop (SRW) 2025"
 title_separator          : "-"
-name                     : "ACL"
-description              : "In conjunction with NAACL HLT 2024 in Seattle, Washington, USA" 
+name                     : "NAACL"
+description              : "In conjunction with NAACL 2025 in Albuquerque, New Mexico, USA" 
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "naacl2024srw"
+    shortname            : "naacl2025srw"
 reCaptcha:
   siteKey                :
   secret                 :
