@@ -21,7 +21,7 @@ __A:__ Yes.
 __A:__ Supplementaty materials are permitted, but your paper should stand alone without requiring reading of them. Supplemental code and data should be submitted on OpenReview. Appendices should be appended starting on a new page after the References section in your main paper PDF.
 
 #### Q: Where should I submit for pre-submission mentoring?
-__A:__ You may e-mail __naacl24-srw-chairs@googlegroups.com__ with the follow information:
+__A:__ You may e-mail __naacl25-srw-chairs@googlegroups.com__ with the follow information:
 
 Please see the instructions under the [Mentoring page](/mentoring). 
 
@@ -44,4 +44,4 @@ __A:__ The spirit of the SRW is to give you feedback to improve your work. If yo
 #### Q: What are the guidelines for the Camera-ready version?
 __A:__ Camera ready FAQs are available [here](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md).
 
-Please contact us at  [naacl24-srw-chairs@googlegroups.com](mailto:naacl24-srw-chairs@googlegroups.com) if you have any other questions.
+Please contact us at  [naacl25-srw-chairs@googlegroups.com](mailto:naacl25-srw-chairs@googlegroups.com) if you have any other questions.
