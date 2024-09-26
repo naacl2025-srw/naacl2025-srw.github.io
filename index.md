@@ -10,7 +10,7 @@ The NAACL Student Research Workshop (SRW) 2025 will be held in conjunction with 
 
 The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
-Contact us via email at [naacl24-srw-chairs@googlegroups.com](mailto:naacl24-srw-chairs@googlegroups.com) for any questions.
+Contact us via email at [naacl25-srw-chairs@googlegroups.com](mailto:naacl25-srw-chairs@googlegroups.com) for any questions.
 Get connected with us on [Twitter](https://twitter.com/naacl_srw).
 
 <!-- We will update this site when latest information are available. -->
