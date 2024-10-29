@@ -9,7 +9,7 @@ __A:__ Everyone attending in-person should prepare a physical poster. These will
 
 #### Q: What size should my in-person poster be, and how do I get it printed?
 
-__A:__ Your poster should have maximum dimensions of 4’ width x 8’ height. Your university ought to have resources to print posters (check the library). If not, you should be able to pay to print it on site at the FedEx Office in the conference center.
+__A:__ Your poster should have maximum dimensions of 4’ width x 8’ height. Your university ought to have resources to print posters (check the library).
 
 #### Q: Can I submit my non-archival accepted paper in other venues?
 __A:__ Yes.
