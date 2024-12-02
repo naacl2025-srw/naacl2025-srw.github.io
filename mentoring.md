@@ -10,7 +10,7 @@ order : 1
 The SRW offers students the opportunity to get advance feedback before submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student’s work, not to critique it. Participation is optional but encouraged. 
 We especially encourage partipation from undergraduates, Masters students, and others who are new to research.
 
-Students wishing to participate must submit the paper by __December 1, 2024__ via e-mail to [naacl25-srw-chairs@googlegroups.com](mailto:naacl25-srw-chairs@googlegroups.com) by filling out the [following](https://forms.gle/9TEhGiPSNBLPCBu98) form.
+Students wishing to participate must submit the paper by __December 1, 2024__ by filling out the [following](https://forms.gle/9TEhGiPSNBLPCBu98) form.
 
 Note that pre-submission mentorship is not anonymous. However, you should still submit your paper in an anonymized format. We will check the formatting of each paper before we match mentors.
 
