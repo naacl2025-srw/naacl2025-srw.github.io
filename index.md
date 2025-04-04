@@ -13,19 +13,45 @@ The SRW gives student researchers in Computational Linguistics and Natural Langu
 Contact us via email at [naacl25-srw-chairs@googlegroups.com](mailto:naacl25-srw-chairs@googlegroups.com) for any questions.
 Get connected with us on [Twitter](https://twitter.com/naacl_srw).
 
+# Workshop Program
+
+The workshop will be held on **April 30 and May 1** at the [Albuquerque Convention Center](https://albuquerquecc.com/)
+
+## Day 1: April 30
+**Venue: Exhibit Hall**
+
+| Time | Event |
+|------|-------|
+| 16:00 - 17:00 | **Poster Session** |
+
+## Day 2: May 1
+**Venue: San Miguel**
+
+| Time | Event |
+|------|-------|
+| 10:30 - 10:45 | **Opening Remarks** |
+| 10:45 - 12:00 | **Faculty Panel** |
+| 12:00 - 14:00 | **Lunch** |
+| 14:00 - 15:00 | **Early Career Panel** |
+| 15:00 - 15:15 | **Best Thesis Talk** |
+| 15:15 - 15:30 | **Best Paper Talk** |
+| 15:30 - 16:00 | **Refreshments** |
+| 16:00 - 17:00 | **Keynote** |
+| 17:00 - 17:30 | **Closing Remarks** |
+
 <!-- We will update this site when latest information are available. -->
 
 <!-- ### List of the accepted papers are available [here](/accepted) -->
 
 
-<!-- # Differences from Past SRWs -->
+<!-- # Differences from Past SRWs
 Similar to past SRWs, NAACL 2025 SRW has two submission options--archival (appear in proceedings) and non-archival (only for presentation).
 Authors can elect for both research papers and thesis proposals to be non-archival, in order to more explicitly encourage work in progress which can later be submitted to a future (archival) conference.
 From a mentorship and reviewing standpoint, archival and nonarchival submissions are treated the same.
 See the call for papers for more details.
 
 # Anti-Harassment Policy
-The NAACL Student Research Workshop 2025 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
+The NAACL Student Research Workshop 2025 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior. -->
 
 
 <!-- # Sponsored By        -->
