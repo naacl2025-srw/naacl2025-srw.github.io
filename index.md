@@ -6,7 +6,7 @@ order: 1
 ---
 
 # Welcome to NAACL SRW 2025
-The NAACL Student Research Workshop (SRW) 2025 will be held in conjunction with [NAACL 2025](https://2025.naacl.org/) in Albuquerque, New Mexico, from April 30 - May 1.
+The NAACL Student Research Workshop (SRW) 2025 will be held in conjunction with [NAACL 2025](https://2025.naacl.org/) in Albuquerque, New Mexico, from **April 30 - May 1**.
 
 The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
